@@ -1,0 +1,1 @@
+# Landslide_Segmentation_Using_Nvidia_Segformer
